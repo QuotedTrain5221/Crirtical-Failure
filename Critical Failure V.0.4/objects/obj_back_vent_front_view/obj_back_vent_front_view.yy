@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_cam_3",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_back_vent_front_view",
+  "eventList":[],
   "managed":true,
-  "name":"obj_cam_3",
+  "name":"obj_back_vent_front_view",
   "overriddenProperties":[],
   "parent":{
-    "name":"Camera Buttons",
-    "path":"folders/Objects/Buttons/Camera Buttons.yy",
+    "name":"Up Close Zones",
+    "path":"folders/Objects/Up Close Zones.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_cam_3",
-    "path":"sprites/spr_cam_3/spr_cam_3.yy",
+    "name":"spr_back_vent_front_view",
+    "path":"sprites/spr_back_vent_front_view/spr_back_vent_front_view.yy",
   },
   "spriteMaskId":null,
   "visible":true,

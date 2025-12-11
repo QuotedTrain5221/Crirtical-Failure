@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_cam_3",
+  "%Name":"obj_move_button_right_door",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_cam_3",
+  "name":"obj_move_button_right_door",
   "overriddenProperties":[],
   "parent":{
-    "name":"Camera Buttons",
-    "path":"folders/Objects/Buttons/Camera Buttons.yy",
+    "name":"Door Move",
+    "path":"folders/Objects/Buttons/Door Buttons/Door Move.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_cam_3",
-    "path":"sprites/spr_cam_3/spr_cam_3.yy",
+    "name":"spr_move_button_right_door",
+    "path":"sprites/spr_move_button_right_door/spr_move_button_right_door.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_cam_3",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_move_button_front_vent",
+  "eventList":[],
   "managed":true,
-  "name":"obj_cam_3",
+  "name":"obj_move_button_front_vent",
   "overriddenProperties":[],
   "parent":{
-    "name":"Camera Buttons",
-    "path":"folders/Objects/Buttons/Camera Buttons.yy",
+    "name":"Vent Move",
+    "path":"folders/Objects/Buttons/Vent Buttons/Vent Move.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_cam_3",
-    "path":"sprites/spr_cam_3/spr_cam_3.yy",
+    "name":"spr_move_button_front_vent",
+    "path":"sprites/spr_move_button_front_vent/spr_move_button_front_vent.yy",
   },
   "spriteMaskId":null,
   "visible":true,

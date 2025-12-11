@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_cam_3",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_left_door_closed_up_close",
+  "eventList":[],
   "managed":true,
-  "name":"obj_cam_3",
+  "name":"obj_left_door_closed_up_close",
   "overriddenProperties":[],
   "parent":{
-    "name":"Camera Buttons",
-    "path":"folders/Objects/Buttons/Camera Buttons.yy",
+    "name":"Close Up",
+    "path":"folders/Sprites/Doors/Close Up.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_cam_3",
-    "path":"sprites/spr_cam_3/spr_cam_3.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

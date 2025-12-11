@@ -13,7 +13,7 @@ cam_x = [];
 cam_y = [];
 
 // --- Main Office ---
-cam_x[0] = 4266;  cam_y[0] = 2390;
+cam_x[0] = 255;  cam_y[0] = 2588;
 
 // --- Tablet UI ---
 cam_x[1] = 6334;  cam_y[1] = 67;
